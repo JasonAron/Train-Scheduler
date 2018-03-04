@@ -1,0 +1,17 @@
+
+.card-body {
+    padding: 0;
+}
+
+.jumbotron-fluid {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border: 1px solid rgb(197, 196, 196);
+    border-radius: 8px;
+}
+
+#submit {
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+

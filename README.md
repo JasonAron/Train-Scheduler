@@ -1,6 +1,6 @@
 # Train-Scheduler
 
-Click [here]( https://jasonaron.github.io/Gif-Tastic/) to see the live game.
+Click [here](https://jasonaron.github.io/Train-Scheduler/.) to see the live game.
 
 
 <h2>Design</h2>

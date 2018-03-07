@@ -51,6 +51,7 @@ db.on("child_added", function(childSnapshot) {
     var tDestination =  childSnapshot.val().destination;
     var tFirst = childSnapshot.val().time;
     var tFrequency = parseInt(childSnapshot.val().frequency);
+ 
 
 
     // First Time (pushed back 1 year to make sure it comes before current time)
@@ -83,4 +84,3 @@ db.on("child_added", function(childSnapshot) {
 
 
 
-al
